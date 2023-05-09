@@ -1,7 +1,7 @@
 {
     "name": "Sample App",
     // コンテナ起動に使用するDocker Composeファイル
-    "dockerComposeFile": "../docker-compose.yml",
+    "dockerComposeFile": "../docker-compose-dev.yml",
     // Dev containerとして起動するDocker Composeサービス
     "service": "app",
     // ワークスペースディレクトリ
